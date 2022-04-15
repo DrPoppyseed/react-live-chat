@@ -1,0 +1,20 @@
+{
+  "settings_page.header": "Settings",
+  "profile_page.header": "Profile",
+  "create_room_page.header": "Create New Room",
+  "create_room_page.friend_not_found": "No match found",
+  "add_friend_page.header": "Add Friend",
+  "signin_page.social_button.google": "Sign in with Google",
+  "signin_page.social_button.github": "Sign in with GitHub",
+  "signin_page.title": "Sign In",
+  "signin_page.bottom_text": "First time here?",
+  "signin_page.redirect_text": "Sign up.",
+  "signin_page.signin_button": "Sign in",
+  "signup_page.title": "Sign Up",
+  "signup_page.bottom_text": "Already have an account?",
+  "signup_page.redirect_text": "Sign in.",
+  "signup_page.signup_button": "Create new account",
+  "auth_textfield.label.email": "email",
+  "auth_textfield.label.password": "password",
+  "auth_textfield.label.name": "name"
+}

@@ -1,0 +1,20 @@
+{
+  "settings_page.header": "設定",
+  "profile_page.header": "プロフィール",
+  "create_room_page.header": "新しい部屋を作る",
+  "create_room_page.friend_not_found": "友達が見つかりません",
+  "add_friend_page.header": "友達を追加する",
+  "signin_page.social_button.google": "Googleアカウントで続ける",
+  "signin_page.social_button.github": "GitHubアカウントで続ける",
+  "signin_page.title": "ログイン",
+  "signin_page.bottom_text": "初めて？",
+  "signin_page.redirect_text": "新規登録",
+  "signin_page.signin_button": "ログイン",
+  "signup_page.title": "新規登録",
+  "signup_page.bottom_text": "アカウントを既に持っている？",
+  "signup_page.redirect_text": "ログイン",
+  "signup_page.signup_button": "アカウントを作成する",
+  "auth_textfield.label.email": "メール",
+  "auth_textfield.label.password": "パスワード",
+  "auth_textfield.label.name": "ユーザネーム"
+}
